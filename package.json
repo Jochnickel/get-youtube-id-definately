@@ -1,6 +1,6 @@
 {
   "name": "get-youtube-id-definately",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Joachim Janke",
   "description": "Gives you a Youtube ID from a String. Gives you the id to an error video if not valid.",
   "main": "lib/index.js",
