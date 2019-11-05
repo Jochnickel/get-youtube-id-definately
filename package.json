@@ -1,0 +1,22 @@
+{
+  "name": "get-youtube-id-definately",
+  "version": "1.0.0",
+  "description": "Gives you a Youtube ID from a String. Gives you an id to an errorvideo if not valid.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jochnickel/get-youtube-id-definately.git"
+  },
+  "author": "Joachim Janke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jochnickel/get-youtube-id-definately/issues"
+  },
+  "homepage": "https://github.com/Jochnickel/get-youtube-id-definately#readme",
+  "devDependencies": {
+    "typescript": "^3.7.2"
+  }
+}
