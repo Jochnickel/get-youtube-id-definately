@@ -10,7 +10,7 @@
     "url": "git+https://github.com/Jochnickel/get-youtube-id-definately.git"
   },
   "scripts": {
-    "build" : "tsc"
+    "build": "tsc"
   },
   "bugs": {
     "url": "https://github.com/Jochnickel/get-youtube-id-definately/issues"
@@ -22,5 +22,8 @@
   "dependencies": {
     "get-youtube-id": "^1.0.1"
   },
-  "keywords": ["Youtube","youtube id"]
+  "keywords": [
+    "Youtube",
+    "youtube id"
+  ]
 }
